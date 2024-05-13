@@ -1,0 +1,167 @@
+body {
+    width: 1470px;
+    margin: 0;
+    padding: 0
+}
+
+.emoji {
+    margin: 120px;
+    margin-bottom: -100px;
+    margin-top: 80px;
+    font-size: 30px
+}
+
+.intro {
+    margin: 120px;
+    margin-bottom: -50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 2px grey
+}
+
+.projectlist1 {
+   display: flex;
+   margin: 120px;
+   margin-bottom: -70px;
+   justify-content: space-evenly;
+}
+
+.projectlist2 {
+    display: flex;
+    margin: 120px;
+    margin-bottom: -70px;
+    justify-content: space-evenly;
+ }
+
+ .projectlist3 {
+    display: flex;
+    margin: 120px;
+    margin-bottom: 80px;
+    justify-content: space-evenly;
+ }
+
+.projecttitle {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0
+}
+
+.projectdesc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; 
+    color: gray
+}
+
+.windowbg1 {
+    background-color: rgb(219, 236, 255);
+    padding: 40px
+}
+
+.windowbg2 {
+    background-color: rgb(255, 239, 215);
+    padding: 40px
+}
+
+.windowbg3 {
+    background-color: rgb(214, 243, 243);
+    padding: 40px
+}
+
+.windowbg4 {
+    background-color: rgb(203, 215, 228);
+    padding: 40px
+}
+
+.projecttitle {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.projectdesc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.subtitle {
+    margin: 120px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subbg{
+    background-color: rgb(219, 236, 255);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 80px;
+}
+
+.twowindows {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ .projecttitle2 {
+    margin: 120px;
+    margin-bottom: -100px;
+    margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.projectdesc2 {
+    margin: 120px;
+    margin-bottom: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: grey
+}
+
+.projectwindowbig {
+    margin-bottom: 80px;
+    display: block;
+    text-align: center;
+}
+
+.projectwindowbig2 {
+    margin-bottom: 0px;
+    display: block;
+    text-align: center;
+}
+
+.results {
+    margin: 120px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: grey
+}
+
+
+.buttonflex {
+    width: 100%;
+}
+
+.button1 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    background-color: rgb(244, 246, 252);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(237, 241, 248);
+    cursor: pointer
+}
+
+.button2 {
+    width: 50%;
+    padding: 20px;
+    background-color: rgb(244, 246, 252);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(237, 241, 248);
+    cursor: pointer
+}
